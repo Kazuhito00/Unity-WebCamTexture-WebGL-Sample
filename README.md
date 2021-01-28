@@ -18,6 +18,14 @@ WebGLビルドをGithub Pagesにホストする際には無圧縮でビルドす
 [Disabled]に変更<br>
 <img src="https://user-images.githubusercontent.com/37477845/105736874-a1312980-5f78-11eb-9a65-3e36703d1847.png" width="50%">
 
+##### 映像が上下もしくは左右反転している場合
+Plane>Transform>Scaleの値をマイナスにして反転させる。
+
+##### 映像が暗い場合
+ProjectウィンドウのAssetフォルダ内で右クリックしてCreate＞Materialを選択。<br>
+作成したマテリアルを選択し、Inspectorビュー＞Shader＞Unlit/Textureに変更。<br>
+Planeに適用する。
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
