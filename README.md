@@ -3,7 +3,7 @@ UnityのWebカメラ入力をWebGLビルドしたサンプルです。
 
 # Demo
 動作確認用ページは以下。<br>
-https://kazuhito00.github.io/Unity-WebCamTexture-WebGL-Sample/
+https://kazuhito00.github.io/Unity-WebCamTexture-WebGL-Sample/WebGL-Build
 
 # Requirement 
 * Unity 2020.1.6f1 or later
